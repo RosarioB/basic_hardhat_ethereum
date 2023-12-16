@@ -1,0 +1,16 @@
+{
+  "name": "basic_hardhat_ethereum",
+  "version": "1.0.0",
+  "description": "Basic project to compile test and deploy smart contracts on Ethereum with Hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.2"
+  }
+}
