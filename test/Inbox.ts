@@ -9,6 +9,7 @@ describe("Inbox contract", () => {
     beforeEach(async () => {
         Inbox = await ethers.getContractFactory("Inbox");
         inbox = await Inbox.deploy("Hi there!");
+        await inbox.waitForDeployment();
     });
 
     describe("Deployment", () => {
