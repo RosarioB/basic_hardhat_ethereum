@@ -1,5 +1,5 @@
 # basic_hardhat_ethereum
-Basic project to compile test and deploy smart contracts on Ethereum with Hardhat. This is also the source code of this [Youtube video](https://www.youtube.com/watch?v=gCFqxdOliTQ)
+Basic project to compile test and deploy smart contracts on Ethereum with Hardhat. This is also the source code of this [Youtube video](https://www.youtube.com/watch?v=gCFqxdOliTQ).
 
 1. Clone the repository
 2. In the project root create a file .env and add:
